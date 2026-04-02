@@ -49,3 +49,17 @@ The prototype keeps the optimization logic practical and close to the assignment
 4. Show GenAI-style reasoning for why each recommendation was produced.
 
 This makes the project look more like a real digital twin product while staying within the interviewer’s request for a front-end-only prototype with mock data.
+
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/d3259635-a8a5-4d75-b072-1046aff49fa9" />
+
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/62c75420-719b-4762-89d7-98eed88bb8c3" />
+
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/d1d41892-72b7-4a03-b657-390ea7f0254e" />
+
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/7aacd2bd-3698-4401-9c35-97c14dcea704" />
+
+<img width="592" height="719" alt="image" src="https://github.com/user-attachments/assets/730f977e-e489-42ea-8f97-d0bcfdba102c" />
+
+
+
+
